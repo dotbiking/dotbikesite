@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Bryce Willey &#8211; DotBike</title>
+	<atom:link href="/author/brycewilley/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Dorchester Biking</description>
+	<lastBuildDate>Mon, 13 Apr 2020 01:51:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://i0.wp.com/dotbike.org/wp-content/uploads/2020/04/cropped-dotbike_icon.png?fit=32%2C32</url>
+	<title>Bryce Willey &#8211; DotBike</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">175449241</site>	<item>
+		<title>DotBike: Revived!</title>
+		<link>/dotbike-revived/</link>
+		
+		<dc:creator><![CDATA[Bryce Willey]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2020 08:51:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[announcements]]></category>
+		<guid isPermaLink="false">/?p=140</guid>
+
+					<description><![CDATA[DotBike is back! DotBike was started over a decade ago by a handful of Dorchester residents with the goal of making our neighborhood more bike friendly. This consisted of organized group rides, bike repair events, and promoting and lobbying for <a href="/dotbike-revived/" class="read-more">Read More ...</a>]]></description>
+										<content:encoded><![CDATA[
+<p>DotBike is back! </p>
+
+
+
+<p>DotBike was started over a decade ago by a handful of Dorchester residents with the goal of making our neighborhood more bike friendly. This consisted of organized group rides, bike repair events, and promoting and lobbying for better and safer biking routes.  Thanks to a few dedicated volunteers, DotBike had a few good active years, but once the main organizers moved on to other things, the group went dormant.</p>
+
+
+
+<p>In the end of 2019 though, we met a number of recent and long-time Dorchester residents who expressed an interest in seeing DotBike become active again, and we hosted a large, energetic crowd at homestead café on January 15th, discussing the possibility of making DotBike an active chapter of the Boston Cyclist&#8217;s Union (BCU). After another meeting on February 27th, we voted to officially become a chapter of BCU!  </p>
+
+
+
+<p>Being a chapter of BCU means that DotBike will</p>
+
+
+
+<ul><li>Take collective action and organize for cyclist&#8217;s rights</li><li>Work to build an inclusive, diverse, multi-racial base of members. Efforts in a diversity working group have already started, and more updates on that will be posted soon.</li><li>Have at least 1 chapter leader in regular communication with BCU</li><li>Have at least 5 active chapter members</li><li>Actively participate in Annual Boston Bike Budget campaigns</li></ul>
+
+
+
+<p>In return, BCU provides us with valuable organizational support and networks in the Boston cycling community and in city hall.</p>
+
+
+
+<p>COVID-19 has affected all of us, both as members and as an organization. However, we are still going to be active, virtually and individually, capitalizing on this pivotal moment for our city. More to come, so stay tuned.</p>
+
+
+
+<p>You can follow us on Twitter at <a href="https://twitter.com/BikeDorchester">@BikeDorchester</a>, on <a href="https://www.facebook.com/BikeDorchester">Facebook</a>, on through our <a href="/?feed=rss">RSS feed</a>!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">140</post-id>	</item>
+	</channel>
+</rss>

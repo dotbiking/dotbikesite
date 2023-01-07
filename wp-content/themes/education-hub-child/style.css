@@ -1,0 +1,218 @@
+/*
+ Theme Name:   Education Hub Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Theme for the DotBike website
+ Author:       Bryce Willey
+ Author URI:   http://brycewilley.xyz
+ Template:     education-hub
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  education-hub-child
+*/
+
+/* Main colors:
+ * Background: white
+ * Primary Color: blue: 1372b1
+ * Highlight/Hover: purple: 7023a2
+ * Highlight/Hover: yellow: fcc845
+ */
+
+#tophead {
+  background-color: #ffffff;
+}
+
+/* The Text blue color: */
+#main-slider h3 {
+  color: #1372b1; /* Primary */
+}
+
+a,
+a:visited {
+    color:#1372b1;
+    text-decoration: inherit;
+}
+
+.nav-links span.current,
+.nav-links a {
+    background-color: #1372b1;
+}
+
+.nav-links a:visited {
+    color:#7023a2;
+}
+
+#main-nav {
+  background-color: #1372b1; /* Primary */
+}
+
+.site-footer {
+  background-color: #ffffff;
+  color: #000000;
+  background-image: url("http://localhost/wordpress-git/wp-content/uploads/2020/03/footer.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#footer-widgets .search-form .search-submit:hover,
+#footer-widgets  .woocommerce-product-search input[type="submit"]:hover {
+  background: #1372b1; /* Primary */
+}
+
+#main-slider .pager-box.cycle-pager-active{
+  background: #1372b1 none repeat scroll 0 0;
+}
+
+#main-slider h3 {
+  color: #000000;
+}
+
+#main-nav {
+  background-color: #1372b1; /* Primary */
+  border-bottom: 5px solid #7023a2; /* Highlight/Hover */
+}
+
+.main-navigation ul {
+  background: #1372b1 none repeat scroll 0 0;
+ }
+
+.main-navigation ul ul {
+    background: #1372b1 none repeat scroll 0 0;
+}
+
+.search-form .search-submit,
+.woocommerce-product-search button {
+    background-color: #1372b1; /* Primary */
+    border-radius: 0 20px 20px 0;
+}
+
+.menu-toggle {
+    background: #1372b1; /* Primary */
+}
+.scrollup {
+    background: #1372b1 none repeat scroll 0 0;
+}
+
+/*************** Lots of things for secondary ***************/
+.main-navigation li a:hover,
+.main-navigation li.current-menu-item > a,
+.main-navigation li.current_page_item > a,
+.main-navigation li:hover > a{
+    background: #7023a2; /* Hover */
+    color: #fff;
+}
+.news-content {
+  border-top: 5px solid #7023a2;
+}
+blockquote {
+    border-left: 4px solid #7023a2;
+}
+button,
+a.cta-button-primary,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    background: #7023a2;
+}
+a.comment-reply-link:hover {
+    background-color: #7023a2;
+    color:#fff;
+}
+.nav-links a:hover,
+a.cta-button-primary:hover,
+.nav-links span.current {
+    background-color: #7023a2;
+    color: #ffffff;
+}
+.top-news-title::before {
+    color: #7023a2;
+}
+.scrollup i {
+    color: #7023a2;
+}
+
+.wp-block-quote:not(.is-large):not(.is-style-large),
+blockquote {
+    border-left: 4px solid #7023a2;
+}
+.wp-block-pullquote.is-style-solid-color blockquote {
+    border: none;
+    background: #7023a2;
+    padding: 30px;
+    color: #fff;
+}
+.wp-block-button__link {
+    background-color: #7023a2;
+}
+.search-form .search-submit:hover,
+.woocommerce-product-search button:hover {
+    background-color:#7023a2;
+}
+
+#footer-widgets .search-form .search-submit,
+#footer-widgets  .woocommerce-product-search input[type="submit"] {
+    background: #7023a2;
+}
+
+
+/****************** Other ************************/
+h1, h2, h3, h4, h5, h6 {
+   color: #000;
+   font-family: 'Merriweather Sans', sans-serif;
+   font-weight: normal;
+   margin: 0 0 15px;
+}
+h1 {
+    color: #7023a2;
+}
+
+#colophon a {
+  color: #424242;
+}
+
+.education_hub_widget_social ul li a {
+    background-color: #000;
+}
+
+.education_hub_widget_social ul li a:hover:before{
+    color: #000;
+}
+
+/*social links hover effect */
+.education_hub_widget_social ul li a[href*="facebook.com"]{
+    background-color: #3b5998;
+}
+
+.education_hub_widget_social ul li a[href*="twitter.com"]{
+    background-color: #00aced;
+}
+.education_hub_widget_social ul li a[href*="twitch.tv"] {
+    background-color: #6441a5;
+}
+.education_hub_widget_social ul li a[href*="youtube.com"] {
+    background-color: #bb0000;
+}
+
+.education_hub_widget_social ul li a[href*="instagram.com"] {
+    background-color: #517fa4;
+}
+
+
+
+.wp-block-cover__inner-container strong {
+  background-color: #000000;
+}
+
+@media only screen and (max-width:767px) {
+
+.site-logo-link > img,.custom-logo-link img {
+  max-height: 240px;
+  width: auto;
+}
+
+.custom-logo-link, .site-logo-link {
+  max-width: 270px;
+}
+
+}

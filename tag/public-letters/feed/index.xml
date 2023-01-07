@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>public letters &#8211; DotBike</title>
+	<atom:link href="/tag/public-letters/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Dorchester Biking</description>
+	<lastBuildDate>Fri, 10 Apr 2020 17:49:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://i0.wp.com/dotbike.org/wp-content/uploads/2020/04/cropped-dotbike_icon.png?fit=32%2C32</url>
+	<title>public letters &#8211; DotBike</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">175449241</site>	<item>
+		<title>Advocacy Letter: Vision Zero Hearing Concerns &#038; Recommendations</title>
+		<link>/advocacy-letter-vision-zero-hearing-concerns-recommendations/</link>
+		
+		<dc:creator><![CDATA[dotbiking]]></dc:creator>
+		<pubDate>Sat, 04 Jun 2016 17:42:00 +0000</pubDate>
+				<category><![CDATA[advocacy]]></category>
+		<category><![CDATA[public letters]]></category>
+		<guid isPermaLink="false">/?p=134</guid>
+
+					<description><![CDATA[&#160;June 4, 2016 Dear Councilors Baker, Campbell, Essaibi-George, Flaherty, Pressley and Wu, DotBike represents over two hundred bicycle commuters, enthusiasts, and supporters in Dorchester. As safe streets are a vital concern for our group, we would like to make some <a href="/advocacy-letter-vision-zero-hearing-concerns-recommendations/" class="read-more">Read More ...</a>]]></description>
+										<content:encoded><![CDATA[
+<p>&nbsp;June 4, 2016<br><br>Dear Councilors Baker, Campbell, Essaibi-George, Flaherty, Pressley and Wu,</p>
+
+
+
+<p>DotBike represents over two hundred bicycle commuters, enthusiasts, and supporters in Dorchester. As safe streets are a vital concern for our group, we would like to make some observations and comments with respect to the recent hearing on Docket #0509: “Order regarding traffic calming measures and the Vision Zero Boston Program” held on May 16th, 2016.&nbsp;</p>
+
+
+
+<p>First, thank you to all the councilors for being engaged with this issue, in particular Councilors Wu and Pressley for pressing the representatives from City of Boston on the timeline for implementing Vision Zero and how traffic injuries and fatalities can be addressed more quickly. <strong>Our main concern, with regards to the testimony, is with the apparent lack of vigorous action from the Department of Transportation on Vision Zero issues to date.</strong> Since the announcement of Vision Zero for the City of Boston by Mayor Walsh on March 24, 2015, it appears that the following list exhausts the tangible steps that the city has taken to improve the safety of cyclists and pedestrians:</p>
+
+
+
+<ol><li>Rapid response teams formed to investigate (and occasionally make street changes) following serious crashes.</li><li>Fifteen radar speed signs installed.</li><li>Crashes are discussed in BPD COMPSTAT meetings.</li><li>Hi-vis bracelets given out to seniors and people with disabilities. <br><br>While #1 in the above list has led to some welcome changes (most notably, the flexposts along one block of Mass Ave where a cyclist was killed in a crash with a truck), the totality of measures appears to be grossly insufficient for a year&#8217;s worth of effort. We are aware that planning for Slow Streets and Priority Corridors is proceeding, however it appears that very little else is being done citywide. The officials from the BTD (notably Charlotte Fleetwood,  Project Manager for Vision Zero) seemed to imply that the reason we are seeing very few changes is</li><li>“engineering”: every change and safety solution must be &#8220;engineered&#8221;. This is curious in light of Commissioner Fiandacca&#8217;s suggestion that BTD has all the funds they need to proceed with Vision Zero implementation for City of Boston. Either engineering is a bottleneck (a problem that can be solved with proper application of funding) or it is not. <strong>We would like to see more from the city or understand better why relatively little is being done.</strong><br><br>We are also concerned that while Commissioner Fiandacca and Project Manager Fleetwood claimed that they listen to concern about traffic safety, there has not been a single street modification (as far as we know) in response to anything but a fatality. Issues raised with BOS311 are unanswered, and areas highlighted on the Boston Vision Zero Safety Concerns Map go unaddressed, creating an unwelcome impression that while the city is happy to solicit feedback, it remains disinterested in acting on the community input it solicits.<br><br>Finally, we would like to respectfully disagree with the enforcement focus put forward by our esteemed colleague, Richard Fries of Massachusetts Bicycle Coalition. While it is true that we would also prefer more enforcement with respect to bicycle lane violations, we ultimately believe the city needs to focus its energy on building safe and sustainable bicycling infrastructure. </li></ol>
+
+
+
+<p><strong>To address the aforementioned concerns, we urge the councilors to take the following actions in the near future:</strong></p>
+
+
+
+<ul><li>Pass a measure calling for the installation of speed and red light cameras citywide. This is a measure that the Boston Police Department supports, and would generate revenue for the city while reducing speeds and freeing officers to perform other law enforcement tasks.</li><li>Continue to push City Officials on clear identification of bottlenecks to implementation of traffic safety measures and traffic calming, and strategic steps for how those these impediments can be overcome. Saying “engineering” should not be taken as a sufficient answer as to why no action is taking place.</li></ul>
+
+
+
+<p>If we can be of any assistance in these efforts, please do not hesitate to contact us. Our members will be present at the Vision Zero Community Forum in Dorchester on June 9th, and will welcome an opportunity to speak with you about the issues.<br><br>Sincerely, <br>Kirill Shklovsky, DotBike Executive Committee<br>(on behalf of DotBike)</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">134</post-id>	</item>
+	</channel>
+</rss>
